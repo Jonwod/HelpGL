@@ -1,5 +1,4 @@
 #include <iostream>
-//#include "../Window.h"
 #include "../Mesh.h"
 #include "../GLFunctions.h"
 #include <cmath>
